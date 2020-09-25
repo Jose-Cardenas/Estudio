@@ -1,1 +1,3 @@
-Este es el código del proyecto python
+Este es el código del proyecto python.
+
+Hemos adicionado nuevas lineas de comando.
